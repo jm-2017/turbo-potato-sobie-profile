@@ -7,6 +7,10 @@ DEV OPS = plan, code, build, test / release, deploy, operate, monitor
 
 DEV JIG  "PKG" 
 
-1. 
-2. 
-3. code review 
+1/
+
+
+2/ as a repo collab: issue=>branch=>code=>pr=>reviewed=>[resolve conflict]=>merge
+
+  
+3/ code review 
