@@ -8,7 +8,7 @@ DEV OPS = plan, code, build, test / release, deploy, operate, monitor
 DEV JIG  "PKG" 
 
 1/
-
+https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/57
 
 2/ as a repo collab: issue=>branch=>code=>pr=>reviewed=>[resolve conflict]=>merge
 
