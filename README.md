@@ -6,6 +6,7 @@ Fork from class repo, here is `<dev jig>` = getting dev process
 DEV OPS = plan, code, build, test / release, deploy, operate, monitor
 
 DEV JIG  "PKG" 
+a
 
 1/
 https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/57
